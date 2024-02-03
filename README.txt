@@ -1,1 +1,2 @@
-<p align="center" style="font-size:20px;">Nota Importante: TODOS OS DADOS SÃO MERAMENTE ILUSTRATIVOS.</p>
+**<h3 align="center">Nota Importante:</h3>** 
+<p align="center"><b>TODOS OS DADOS SÃO MERAMENTE ILUSTRATIVOS.</b></p>
